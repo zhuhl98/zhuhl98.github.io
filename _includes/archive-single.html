@@ -57,9 +57,11 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl and post.arxivurl %}
-      <p> <a href=" {{ post.paperurl }} "><u>[proc]</u></a> <a href=" {{ post.arxivurl }} "><u>[arxiv]</u></a> </p>
+      <p> <a href=" {{ post.paperurl }} "><u>[paper]</a> <a href=" {{ post.arxivurl }} ">[arxiv]</a> </p>
     {% elsif post.arxivurl %}
-      <p> <a href=" {{ post.arxivurl }} "><u>[arxiv]</u></a></p>
+      <p> <a href=" {{ post.arxivurl }} ">[arxiv]</a></p>
+      {% elsif post.paperurl %}
+      <p> <a href=" {{ post.paperurl }} ">[paper]</a></p>
     {% endif %}
 
 
