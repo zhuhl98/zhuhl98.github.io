@@ -32,3 +32,10 @@ Cyrus Rashtchian\*, David P. Woodruff\*, **Hanlin Zhu\***
 Random, 2020
 
 ---
+[Guided Dialog Policy Learning: Reward Estimation for Multi-Domain Task-Oriented Dialog](https://arxiv.org/abs/1908.10719)
+
+Ryuichi Takanobu, **Hanlin Zhu**, Minlie Huang
+
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019
+
+---
