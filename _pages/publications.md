@@ -17,14 +17,18 @@ author_profile: true
 
 ---
 [Average-Case Communication Complexity of Statistical Problems](https://arxiv.org/abs/2107.01335)
+
 Cyrus Rashtchian\*, David P. Woodruff\*, Peng Ye\*, **Hanlin Zhu\***
+
 Conference on Learning Theory (COLT), 2021
 
 ---
 
 ---
 [Vector-Matrix-Vector Queries for Solving Linear Algebra, Statistics, and Graph Problems](https://arxiv.org/abs/2006.14015)
+
 Cyrus Rashtchian\*, David P. Woodruff\*, **Hanlin Zhu\***
+
 Random, 2020
 
 ---
