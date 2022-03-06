@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
+
+---
+[Average-Case Communication Complexity of Statistical Problems](https://arxiv.org/abs/2107.01335)
+
+Cyrus Rashtchian*, David P. Woodruff*, Peng Ye*, ** Hanlin Zhu* **'
+
+Conference on Learning Theory (COLT) 2021
+---
