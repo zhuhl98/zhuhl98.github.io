@@ -83,11 +83,11 @@ author:
   name             : "Hanlin Zhu"
   avatar           : "profile.png"
   bio              : "PhD stduent in the department of Electrical Engineering and Computer Science at University of California, Berkeley"
-  location         : "Location"
-  employer         :
+  location         : "Berkeley, CA"
+  employer         : 
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=yDVn5LEAAAAJ&hl=zh-CN&oi=ao"
-  email            :
+  email            :  "hanlinzhu [at] berkeley [dot] edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
