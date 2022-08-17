@@ -27,7 +27,7 @@ Conference on Learning Theory (COLT), 2021
 
 Cyrus Rashtchian\*, David P. Woodruff\*, **Hanlin Zhu\***
 
-Random, 2020
+RANDOM, 2020
 
 ---
 [Guided Dialog Policy Learning: Reward Estimation for Multi-Domain Task-Oriented Dialog](https://arxiv.org/abs/1908.10719)
