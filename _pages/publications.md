@@ -16,6 +16,13 @@ author_profile: true
 {% endfor %} -->
 
 ---
+[Optimal Conservative Offline RL with General Function Approximation via Augmented Lagrangian](https://arxiv.org/abs/2211.00716)
+
+Paria Rashidinejad, **Hanlin Zhu**, Kunhe Yang, Stuart Russell, Jiantao Jiao
+
+Preprint, 2022
+
+---
 [Average-Case Communication Complexity of Statistical Problems](https://arxiv.org/abs/2107.01335)
 
 Cyrus Rashtchian\*, David P. Woodruff\*, Peng Ye\*, **Hanlin Zhu\***
