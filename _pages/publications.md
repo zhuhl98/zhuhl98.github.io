@@ -16,11 +16,18 @@ author_profile: true
 {% endfor %} -->
 
 ---
+[Importance Weighted Actor-Critic for Optimal Conservative Offline Reinforcement Learning](https://arxiv.org/abs/2301.12714)
+
+**Hanlin Zhu**, Paria Rashidinejad, Jiantao Jiao
+
+Preprint, 2023
+
+---
 [Optimal Conservative Offline RL with General Function Approximation via Augmented Lagrangian](https://arxiv.org/abs/2211.00716)
 
 Paria Rashidinejad, **Hanlin Zhu**, Kunhe Yang, Stuart Russell, Jiantao Jiao
 
-Preprint, 2022
+International Conference on Learning Representations (ICLR), 2023 (*Spotlight*)
 
 ---
 [Average-Case Communication Complexity of Statistical Problems](https://arxiv.org/abs/2107.01335)
