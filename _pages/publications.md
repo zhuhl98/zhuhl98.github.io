@@ -16,6 +16,13 @@ author_profile: true
 {% endfor %} -->
 
 ---
+[Provably Efficient Offline Goal-Conditioned Reinforcement Learning with General Function Approximation and Single-Policy Concentrability](https://arxiv.org/abs/2302.03770)
+
+**Hanlin Zhu**, Amy Zhang
+
+Preprint, 2023
+
+---
 [Importance Weighted Actor-Critic for Optimal Conservative Offline Reinforcement Learning](https://arxiv.org/abs/2301.12714)
 
 **Hanlin Zhu**, Paria Rashidinejad, Jiantao Jiao
