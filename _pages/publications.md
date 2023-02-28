@@ -37,6 +37,13 @@ Paria Rashidinejad, **Hanlin Zhu**, Kunhe Yang, Stuart Russell, Jiantao Jiao
 International Conference on Learning Representations (ICLR), 2023 (*Spotlight*)
 
 ---
+[Provably Efficient Reinforcement Learning via Surprise Bound](https://arxiv.org/abs/2302.11634)
+
+**Hanlin Zhu**, Ruosong Wang, Jason D. Lee
+
+Artificial Intelligence and Statistics (AISTATS), 2023
+
+---
 [Average-Case Communication Complexity of Statistical Problems](https://arxiv.org/abs/2107.01335)
 
 Cyrus Rashtchian\*, David P. Woodruff\*, Peng Ye\*, **Hanlin Zhu\***
