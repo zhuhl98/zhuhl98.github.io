@@ -20,14 +20,14 @@ author_profile: true
 
 **Hanlin Zhu**, Amy Zhang
 
-Neural Information Processing Systems (NeurIPS), 2023
+Conference on Neural Information Processing Systems (NeurIPS), 2023
 
 ---
 [Importance Weighted Actor-Critic for Optimal Conservative Offline Reinforcement Learning](https://arxiv.org/abs/2301.12714)
 
 **Hanlin Zhu**, Paria Rashidinejad, Jiantao Jiao
 
-Neural Information Processing Systems (NeurIPS), 2023
+Conference on Neural Information Processing Systems (NeurIPS), 2023
 
 ---
 [Optimal Conservative Offline RL with General Function Approximation via Augmented Lagrangian](https://arxiv.org/abs/2211.00716)
