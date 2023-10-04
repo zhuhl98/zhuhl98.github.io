@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ---
-[On Representation Complexity of Model-based and Model-free Reinforcement Learning](https://arxiv.org/abs/2301.12714)
+[On Representation Complexity of Model-based and Model-free Reinforcement Learning](https://arxiv.org/abs/2310.01706)
 
 **Hanlin Zhu**\*, Baihe Huang\*, Stuart Russell
 
