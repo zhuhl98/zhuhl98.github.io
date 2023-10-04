@@ -16,6 +16,13 @@ author_profile: true
 {% endfor %} -->
 
 ---
+[On Representation Complexity of Model-based and Model-free Reinforcement Learning](https://arxiv.org/abs/2301.12714)
+
+**Hanlin Zhu**\*, Baihe Huang\*, Stuart Russell
+
+preprint, 2023
+
+---
 [Provably Efficient Offline Goal-Conditioned Reinforcement Learning with General Function Approximation and Single-Policy Concentrability](https://arxiv.org/abs/2302.03770)
 
 **Hanlin Zhu**, Amy Zhang
