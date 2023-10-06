@@ -23,6 +23,13 @@ author_profile: true
 preprint, 2023
 
 ---
+[Learning Personalized Story Evaluation](https://arxiv.org/abs/2310.03304)
+
+Danqing Wang, Kevin Yang, **Hanlin Zhu**, Xiaomeng Yang, Andrew Cohen, Lei Li, Yuandong Tian
+
+preprint, 2023
+
+---
 [Provably Efficient Offline Goal-Conditioned Reinforcement Learning with General Function Approximation and Single-Policy Concentrability](https://arxiv.org/abs/2302.03770)
 
 **Hanlin Zhu**, Amy Zhang
