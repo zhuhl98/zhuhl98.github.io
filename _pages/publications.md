@@ -14,6 +14,12 @@ author_profile: true
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+---
+[End-to-end Story Plot Generator](https://arxiv.org/abs/2310.08796)
+
+**Hanlin Zhu**\*, Andrew Cohen\*, Danqing Wang, Kevin Yang, Xiaomeng Yang, Jiantao Jiao, Yuandong Tian
+
+preprint, 2023
 
 ---
 [On Representation Complexity of Model-based and Model-free Reinforcement Learning](https://arxiv.org/abs/2310.01706)
