@@ -15,16 +15,23 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 ---
-[End-to-end Story Plot Generator](https://arxiv.org/abs/2310.08796)
+[On Representation Complexity of Model-based and Model-free Reinforcement Learning](https://arxiv.org/abs/2310.01706)
 
-**Hanlin Zhu**\*, Andrew Cohen\*, Danqing Wang, Kevin Yang, Xiaomeng Yang, Jiantao Jiao, Yuandong Tian
+**Hanlin Zhu**\*, Baihe Huang\*, Stuart Russell
+
+International Conference on Learning Representations (ICLR), 2024
+
+---
+[Towards Optimal Statistical Watermarking](https://arxiv.org/abs/2312.07930)
+
+Baihe Huang, Banghua Zhu, **Hanlin Zhu**, Jason D. Lee, Jiantao Jiao, Michael I. Jordan
 
 preprint, 2023
 
 ---
-[On Representation Complexity of Model-based and Model-free Reinforcement Learning](https://arxiv.org/abs/2310.01706)
+[End-to-end Story Plot Generator](https://arxiv.org/abs/2310.08796)
 
-**Hanlin Zhu**\*, Baihe Huang\*, Stuart Russell
+**Hanlin Zhu**\*, Andrew Cohen\*, Danqing Wang, Kevin Yang, Xiaomeng Yang, Jiantao Jiao, Yuandong Tian
 
 preprint, 2023
 
