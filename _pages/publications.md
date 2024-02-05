@@ -14,6 +14,14 @@ author_profile: true
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
+---
+[Efficient Prompt Caching via Embedding Similarity](https://arxiv.org/abs/2402.01173)
+
+**Hanlin Zhu**, Banghua Zhu, Jiantao Jiao
+
+preprint, 2024
+
 ---
 [On Representation Complexity of Model-based and Model-free Reinforcement Learning](https://arxiv.org/abs/2310.01706)
 
