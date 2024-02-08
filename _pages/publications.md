@@ -23,18 +23,18 @@ author_profile: true
 preprint, 2024
 
 ---
+[Towards Optimal Statistical Watermarking](https://arxiv.org/abs/2312.07930)
+
+Baihe Huang, **Hanlin Zhu**, Banghua Zhu, Kannan Ramchandran, Michael I. Jordan, Jason D. Lee, Jiantao Jiao
+
+preprint, 2024
+
+---
 [On Representation Complexity of Model-based and Model-free Reinforcement Learning](https://arxiv.org/abs/2310.01706)
 
 **Hanlin Zhu**\*, Baihe Huang\*, Stuart Russell
 
 International Conference on Learning Representations (ICLR), 2024
-
----
-[Towards Optimal Statistical Watermarking](https://arxiv.org/abs/2312.07930)
-
-Baihe Huang, Banghua Zhu, **Hanlin Zhu**, Jason D. Lee, Jiantao Jiao, Michael I. Jordan
-
-preprint, 2023
 
 ---
 [End-to-end Story Plot Generator](https://arxiv.org/abs/2310.08796)
