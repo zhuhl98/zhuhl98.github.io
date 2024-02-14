@@ -16,6 +16,13 @@ author_profile: true
 {% endfor %} -->
 
 ---
+[Avoiding Catastrophe in Continuous Spaces by Asking for Help](https://arxiv.org/abs/2402.08062)
+
+Benjamin Plaut, **Hanlin Zhu**, Stuart Russell
+
+preprint, 2024
+
+---
 [Efficient Prompt Caching via Embedding Similarity](https://arxiv.org/abs/2402.01173)
 
 **Hanlin Zhu**, Banghua Zhu, Jiantao Jiao
