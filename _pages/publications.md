@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
----
+<!-- ---
 [Avoiding Catastrophe in Continuous Spaces by Asking for Help](https://arxiv.org/abs/2402.08062)
 
 Benjamin Plaut, **Hanlin Zhu**, Stuart Russell
@@ -34,7 +34,7 @@ preprint, 2024
 
 Baihe Huang, **Hanlin Zhu**, Banghua Zhu, Kannan Ramchandran, Michael I. Jordan, Jason D. Lee, Jiantao Jiao
 
-preprint, 2024
+preprint, 2024 -->
 
 ---
 [On Representation Complexity of Model-based and Model-free Reinforcement Learning](https://arxiv.org/abs/2310.01706)
@@ -43,7 +43,7 @@ preprint, 2024
 
 International Conference on Learning Representations (ICLR), 2024
 
----
+<!-- ---
 [End-to-end Story Plot Generator](https://arxiv.org/abs/2310.08796)
 
 **Hanlin Zhu**\*, Andrew Cohen\*, Danqing Wang, Kevin Yang, Xiaomeng Yang, Jiantao Jiao, Yuandong Tian
@@ -55,7 +55,7 @@ preprint, 2023
 
 Danqing Wang, Kevin Yang, **Hanlin Zhu**, Xiaomeng Yang, Andrew Cohen, Lei Li, Yuandong Tian
 
-preprint, 2023
+preprint, 2023 -->
 
 ---
 [Provably Efficient Offline Goal-Conditioned Reinforcement Learning with General Function Approximation and Single-Policy Concentrability](https://arxiv.org/abs/2302.03770)
