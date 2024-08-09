@@ -16,6 +16,13 @@ author_profile: true
 {% endfor %} -->
 
 ---
+[Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics](https://arxiv.org/abs/2405.04669)
+
+**Hanlin Zhu**\*, Baihe Huang\*, Shaolun Zhang, Michael Jordan, Jiantao Jiao, Yuandong Tian, Stuart Russell
+
+preprint, 2024
+
+---
 [Avoiding Catastrophe in Continuous Spaces by Asking for Help](https://arxiv.org/abs/2402.08062)
 
 Benjamin Plaut, **Hanlin Zhu**, Stuart Russell
@@ -32,7 +39,7 @@ preprint, 2024
 ---
 [Towards Optimal Statistical Watermarking](https://arxiv.org/abs/2312.07930)
 
-Baihe Huang, **Hanlin Zhu**, Banghua Zhu, Kannan Ramchandran, Michael I. Jordan, Jason D. Lee, Jiantao Jiao
+Baihe Huang, **Hanlin Zhu**, Banghua Zhu, Kannan Ramchandran, Michael Jordan, Jason Lee, Jiantao Jiao
 
 preprint, 2024
 
@@ -81,7 +88,7 @@ International Conference on Learning Representations (ICLR), 2023 (*Spotlight*)
 ---
 [Provably Efficient Reinforcement Learning via Surprise Bound](https://arxiv.org/abs/2302.11634)
 
-**Hanlin Zhu**, Ruosong Wang, Jason D. Lee
+**Hanlin Zhu**, Ruosong Wang, Jason Lee
 
 Artificial Intelligence and Statistics (AISTATS), 2023
 
