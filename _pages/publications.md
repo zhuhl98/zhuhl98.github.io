@@ -20,7 +20,22 @@ author_profile: true
 
 **Hanlin Zhu**\*, Baihe Huang\*, Shaolun Zhang, Michael Jordan, Jiantao Jiao, Yuandong Tian, Stuart Russell
 
-preprint, 2024
+Conference on Neural Information Processing Systems (NeurIPS), 2024
+
+---
+[Starling-7B: Improving Helpfulness and Harmlessness with RLAIF](https://openreview.net/forum?id=GqDntYTTbk#discussion)
+
+Banghua Zhu\*, Evan Frick\*, Tianhao Wu\*, **Hanlin Zhu**, Karthik Ganesan, Wei-Lin Chiang, Jian Zhang, Jiantao Jiao
+
+Conference on Language Modeling (COLM), 2024 (*Oral*)
+
+---
+[Learning Personalized Story Evaluation](https://arxiv.org/abs/2310.03304)
+
+Danqing Wang, Kevin Yang, **Hanlin Zhu**, Xiaomeng Yang, Andrew Cohen, Lei Li, Yuandong Tian
+
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
+
 
 ---
 [Avoiding Catastrophe in Continuous Spaces by Asking for Help](https://arxiv.org/abs/2402.08062)
@@ -57,12 +72,6 @@ International Conference on Learning Representations (ICLR), 2024
 
 preprint, 2023
 
----
-[Learning Personalized Story Evaluation](https://arxiv.org/abs/2310.03304)
-
-Danqing Wang, Kevin Yang, **Hanlin Zhu**, Xiaomeng Yang, Andrew Cohen, Lei Li, Yuandong Tian
-
-preprint, 2023
 
 ---
 [Provably Efficient Offline Goal-Conditioned Reinforcement Learning with General Function Approximation and Single-Policy Concentrability](https://arxiv.org/abs/2302.03770)
@@ -111,6 +120,6 @@ RANDOM, 2020
 
 Ryuichi Takanobu, **Hanlin Zhu**, Minlie Huang
 
-Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019 (*Oral*)
 
 ---
