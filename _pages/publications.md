@@ -23,19 +23,18 @@ author_profile: true
 Conference on Neural Information Processing Systems (NeurIPS), 2024
 
 ---
-[Starling-7B: Improving Helpfulness and Harmlessness with RLAIF](https://openreview.net/forum?id=GqDntYTTbk#discussion)
-
-Banghua Zhu\*, Evan Frick\*, Tianhao Wu\*, **Hanlin Zhu**, Karthik Ganesan, Wei-Lin Chiang, Jian Zhang, Jiantao Jiao
-
-Conference on Language Modeling (COLM), 2024 (*Oral*)
-
----
-[Learning Personalized Story Evaluation](https://arxiv.org/abs/2310.03304)
+[Learning Personalized Alignment for Evaluating Open-ended Text Generation](https://arxiv.org/abs/2310.03304)
 
 Danqing Wang, Kevin Yang, **Hanlin Zhu**, Xiaomeng Yang, Andrew Cohen, Lei Li, Yuandong Tian
 
 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
 
+---
+[Starling-7B: Improving Helpfulness and Harmlessness with RLAIF](https://openreview.net/forum?id=GqDntYTTbk#discussion)
+
+Banghua Zhu\*, Evan Frick\*, Tianhao Wu\*, **Hanlin Zhu**, Karthik Ganesan, Wei-Lin Chiang, Jian Zhang, Jiantao Jiao
+
+Conference on Language Modeling (COLM), 2024 (*Oral*)
 
 ---
 [Avoiding Catastrophe in Continuous Spaces by Asking for Help](https://arxiv.org/abs/2402.08062)
