@@ -16,6 +16,20 @@ author_profile: true
 {% endfor %} -->
 
 ---
+[How Do LLMs Perform Two-Hop Reasoning in Context?](https://arxiv.org/abs/2502.13913)
+
+Tianyu Guo\*, **Hanlin Zhu**\*, Ruiqi Zhang, Jiantao Jiao, Song Mei, Michael I. Jordan, Stuart Russell
+
+preprint, 2025
+
+---
+[Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning](https://arxiv.org/abs/2502.03275)
+
+DiJia Su, **Hanlin Zhu**\*, Yingchen Xu\*, Jiantao Jiao, Yuandong Tian\*, Qinqing Zheng\*
+
+preprint, 2025
+
+---
 [Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics](https://arxiv.org/abs/2405.04669)
 
 **Hanlin Zhu**\*, Baihe Huang\*, Shaolun Zhang, Michael Jordan, Jiantao Jiao, Yuandong Tian, Stuart Russell
