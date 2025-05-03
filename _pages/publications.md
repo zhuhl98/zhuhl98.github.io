@@ -16,16 +16,23 @@ author_profile: true
 {% endfor %} -->
 
 ---
-[How Do LLMs Perform Two-Hop Reasoning in Context?](https://arxiv.org/abs/2502.13913)
-
-Tianyu Guo\*, **Hanlin Zhu**\*, Ruiqi Zhang, Jiantao Jiao, Song Mei, Michael I. Jordan, Stuart Russell
-
-preprint, 2025
-
----
 [Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning](https://arxiv.org/abs/2502.03275)
 
 DiJia Su, **Hanlin Zhu**\*, Yingchen Xu\*, Jiantao Jiao, Yuandong Tian\*, Qinqing Zheng\*
+
+International Conference on Machine Learning (ICML), 2025
+
+---
+[Avoiding Catastrophe in Continuous Spaces by Asking for Help](https://arxiv.org/abs/2402.08062)
+
+Benjamin Plaut, **Hanlin Zhu**, Stuart Russell
+
+International Conference on Machine Learning (ICML), 2025
+
+---
+[How Do LLMs Perform Two-Hop Reasoning in Context?](https://arxiv.org/abs/2502.13913)
+
+Tianyu Guo\*, **Hanlin Zhu**\*, Ruiqi Zhang, Jiantao Jiao, Song Mei, Michael I. Jordan, Stuart Russell
 
 preprint, 2025
 
@@ -49,13 +56,6 @@ Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
 Banghua Zhu\*, Evan Frick\*, Tianhao Wu\*, **Hanlin Zhu**, Karthik Ganesan, Wei-Lin Chiang, Jian Zhang, Jiantao Jiao
 
 Conference on Language Modeling (COLM), 2024 (*Oral*)
-
----
-[Avoiding Catastrophe in Continuous Spaces by Asking for Help](https://arxiv.org/abs/2402.08062)
-
-Benjamin Plaut, **Hanlin Zhu**, Stuart Russell
-
-preprint, 2024
 
 ---
 [Efficient Prompt Caching via Embedding Similarity](https://arxiv.org/abs/2402.01173)
