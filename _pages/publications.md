@@ -55,7 +55,7 @@ International Conference on Machine Learning (ICML), 2025
 
 Benjamin Plaut, **Hanlin Zhu**, Stuart Russell
 
-International Conference on Machine Learning (ICML), 202
+International Conference on Machine Learning (ICML), 2025
 
 ---
 [Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics](https://arxiv.org/abs/2405.04669)
