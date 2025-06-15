@@ -30,6 +30,13 @@ Yixiao Huang\*, **Hanlin Zhu**\*, Tianyu Guo\*, Jiantao Jiao, Somayeh Sojoudi, M
 preprint, 2025
 
 ---
+[How Do LLMs Perform Two-Hop Reasoning in Context?](https://arxiv.org/abs/2502.13913)
+
+Tianyu Guo\*, **Hanlin Zhu**\*, Ruiqi Zhang, Jiantao Jiao, Song Mei, Michael I. Jordan, Stuart Russell
+
+preprint, 2025
+
+---
 [Auditing Black-Box LLM APIs with a Rank-Based Uniformity Test](https://arxiv.org/abs/2506.06975)
 
 Xiaoyuan Zhu, Yaowen Ye\*, Tianyi Qiu\*, **Hanlin Zhu**†, Sijun Tan†, Ajraf Mannan, Jonathan Michala, Raluca Ada Popa, Willie Neiswanger
@@ -48,14 +55,7 @@ International Conference on Machine Learning (ICML), 2025
 
 Benjamin Plaut, **Hanlin Zhu**, Stuart Russell
 
-International Conference on Machine Learning (ICML), 2025
-
----
-[How Do LLMs Perform Two-Hop Reasoning in Context?](https://arxiv.org/abs/2502.13913)
-
-Tianyu Guo\*, **Hanlin Zhu**\*, Ruiqi Zhang, Jiantao Jiao, Song Mei, Michael I. Jordan, Stuart Russell
-
-preprint, 2025
+International Conference on Machine Learning (ICML), 202
 
 ---
 [Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics](https://arxiv.org/abs/2405.04669)
