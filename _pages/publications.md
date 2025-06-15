@@ -23,9 +23,23 @@ author_profile: true
 preprint, 2025
 
 ---
+[Generalization or Hallucination? Understanding Out-of-Context Reasoning in Transformers](https://arxiv.org/abs/2506.10887)
+
+Yixiao Huang\*, **Hanlin Zhu**\*, Tianyu Guo\*, Jiantao Jiao, Somayeh Sojoudi, Michael I. Jordan, Stuart Russell, Song Mei
+
+preprint, 2025
+
+---
+[Auditing Black-Box LLM APIs with a Rank-Based Uniformity Test](https://arxiv.org/abs/2506.06975)
+
+Xiaoyuan Zhu, Yaowen Ye\*, Tianyi Qiu\*, **Hanlin Zhu**†, Sijun Tan†, Ajraf Mannan, Jonathan Michala, Raluca Ada Popa, Willie Neiswanger
+
+preprint, 2025
+
+---
 [Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning](https://arxiv.org/abs/2502.03275)
 
-DiJia Su, **Hanlin Zhu**\*, Yingchen Xu\*, Jiantao Jiao, Yuandong Tian\*, Qinqing Zheng\*
+DiJia Su, **Hanlin Zhu**\*, Yingchen Xu\*, Jiantao Jiao, Yuandong Tian†, Qinqing Zheng†
 
 International Conference on Machine Learning (ICML), 2025
 
