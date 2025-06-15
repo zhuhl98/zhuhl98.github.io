@@ -39,14 +39,14 @@ preprint, 2025
 ---
 [Auditing Black-Box LLM APIs with a Rank-Based Uniformity Test](https://arxiv.org/abs/2506.06975)
 
-Xiaoyuan Zhu, Yaowen Ye\*, Tianyi Qiu\*, **Hanlin Zhu**†, Sijun Tan†, Ajraf Mannan, Jonathan Michala, Raluca Ada Popa, Willie Neiswanger
+Xiaoyuan Zhu, Yaowen Ye\*, Tianyi Qiu\*, **Hanlin Zhu**<sup>†</sup>, Sijun Tan<sup>†</sup>, Ajraf Mannan, Jonathan Michala, Raluca Ada Popa, Willie Neiswanger
 
 preprint, 2025
 
 ---
 [Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning](https://arxiv.org/abs/2502.03275)
 
-DiJia Su, **Hanlin Zhu**\*, Yingchen Xu\*, Jiantao Jiao, Yuandong Tian†, Qinqing Zheng†
+DiJia Su, **Hanlin Zhu**\*, Yingchen Xu\*, Jiantao Jiao, Yuandong Tian<sup>†</sup>, Qinqing Zheng<sup>†</sup>
 
 International Conference on Machine Learning (ICML), 2025
 
