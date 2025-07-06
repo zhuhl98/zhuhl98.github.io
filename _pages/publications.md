@@ -20,7 +20,7 @@ author_profile: true
 
 **Hanlin Zhu**\*, Shibo Hao\*, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian
 
-preprint, 2025
+Methods and Opportunities at Small Scale (MOSS) Workshop, ICML 2025 (*Oral*)
 
 ---
 [Generalization or Hallucination? Understanding Out-of-Context Reasoning in Transformers](https://arxiv.org/abs/2506.10887)
@@ -83,7 +83,7 @@ Conference on Language Modeling (COLM), 2024 (*Oral*)
 
 **Hanlin Zhu**, Banghua Zhu, Jiantao Jiao
 
-preprint, 2024
+Machine Learning for Systems Workshop, NeurIPS 2023
 
 ---
 [Towards Optimal Statistical Watermarking](https://arxiv.org/abs/2312.07930)
