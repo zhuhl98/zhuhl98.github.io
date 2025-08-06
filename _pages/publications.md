@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ---
-[Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514) [Slides](/files/talk_slides/coconut_theory.pdf)
+[Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514) [[slides](/files/talk_slides/coconut_theory.pdf)]
 
 **Hanlin Zhu**\*, Shibo Hao\*, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian
 
