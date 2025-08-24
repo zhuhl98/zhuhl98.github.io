@@ -79,13 +79,6 @@ Banghua Zhu\*, Evan Frick\*, Tianhao Wu\*, **Hanlin Zhu**, Karthik Ganesan, Wei-
 Conference on Language Modeling (COLM), 2024 (*Oral*)
 
 ---
-[Efficient Prompt Caching via Embedding Similarity](https://arxiv.org/abs/2402.01173)
-
-**Hanlin Zhu**, Banghua Zhu, Jiantao Jiao
-
-Machine Learning for Systems Workshop, NeurIPS 2023
-
----
 [Towards Optimal Statistical Watermarking](https://arxiv.org/abs/2312.07930)
 
 Baihe Huang, **Hanlin Zhu**, Banghua Zhu, Kannan Ramchandran, Michael Jordan, Jason Lee, Jiantao Jiao
@@ -100,12 +93,18 @@ preprint, 2024
 International Conference on Learning Representations (ICLR), 2024
 
 ---
+[Efficient Prompt Caching via Embedding Similarity](https://arxiv.org/abs/2402.01173)
+
+**Hanlin Zhu**, Banghua Zhu, Jiantao Jiao
+
+Machine Learning for Systems Workshop, NeurIPS 2023
+
+---
 [End-to-end Story Plot Generator](https://arxiv.org/abs/2310.08796)
 
 **Hanlin Zhu**\*, Andrew Cohen\*, Danqing Wang, Kevin Yang, Xiaomeng Yang, Jiantao Jiao, Yuandong Tian
 
 preprint, 2023
-
 
 ---
 [Provably Efficient Offline Goal-Conditioned Reinforcement Learning with General Function Approximation and Single-Policy Concentrability](https://arxiv.org/abs/2302.03770)
