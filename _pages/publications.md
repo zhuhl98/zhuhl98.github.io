@@ -20,6 +20,8 @@ author_profile: true
 
 **Hanlin Zhu**\*, Shibo Hao\*, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian
 
+Conference on Neural Information Processing Systems (NeurIPS), 2025
+
 Methods and Opportunities at Small Scale (MOSS) Workshop, ICML 2025 (*Oral*)
 
 ---
@@ -27,7 +29,7 @@ Methods and Opportunities at Small Scale (MOSS) Workshop, ICML 2025 (*Oral*)
 
 Yixiao Huang\*, **Hanlin Zhu**\*, Tianyu Guo\*, Jiantao Jiao, Somayeh Sojoudi, Michael I. Jordan, Stuart Russell, Song Mei
 
-preprint, 2025
+Conference on Neural Information Processing Systems (NeurIPS), 2025
 
 ---
 [How Do LLMs Perform Two-Hop Reasoning in Context?](https://arxiv.org/abs/2502.13913)
