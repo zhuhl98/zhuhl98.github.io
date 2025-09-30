@@ -17,10 +17,22 @@ author_profile: true
 
 ---
 [GSM-Agent: Understanding Agentic Reasoning Using Controllable Environments](https://arxiv.org/abs/2509.21998)
-
 **Hanlin Zhu**\*, Tianyu Guo\*, Song Mei, Stuart Russell, Nikhil Ghosh, Alberto Bietti, Jiantao Jiao
+preprint, 2025
 
+---
+[Emergence of Superposition: Unveiling the Training Dynamics of Chain of Continuous Thought](https://arxiv.org/abs/2509.23365)
+**Hanlin Zhu**, Shibo Hao, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian
+preprint, 2025
 
+---
+[How Do LLMs Perform Two-Hop Reasoning in Context?](https://arxiv.org/abs/2502.13913)
+Tianyu Guo\*, **Hanlin Zhu**\*, Ruiqi Zhang, Jiantao Jiao, Song Mei, Michael I. Jordan, Stuart Russell
+preprint, 2025
+
+---
+[Auditing Black-Box LLM APIs with a Rank-Based Uniformity Test](https://arxiv.org/abs/2506.06975)
+Xiaoyuan Zhu, Yaowen Ye\*, Tianyi Qiu\*, **Hanlin Zhu**<sup>†</sup>, Sijun Tan<sup>†</sup>, Ajraf Mannan, Jonathan Michala, Raluca Ada Popa, Willie Neiswanger
 preprint, 2025
 
 ---
@@ -38,20 +50,6 @@ Methods and Opportunities at Small Scale (MOSS) Workshop, ICML 2025 (*Oral*)
 Yixiao Huang\*, **Hanlin Zhu**\*, Tianyu Guo\*, Jiantao Jiao, Somayeh Sojoudi, Michael I. Jordan, Stuart Russell, Song Mei
 
 Conference on Neural Information Processing Systems (NeurIPS), 2025
-
----
-[How Do LLMs Perform Two-Hop Reasoning in Context?](https://arxiv.org/abs/2502.13913)
-
-Tianyu Guo\*, **Hanlin Zhu**\*, Ruiqi Zhang, Jiantao Jiao, Song Mei, Michael I. Jordan, Stuart Russell
-
-preprint, 2025
-
----
-[Auditing Black-Box LLM APIs with a Rank-Based Uniformity Test](https://arxiv.org/abs/2506.06975)
-
-Xiaoyuan Zhu, Yaowen Ye\*, Tianyi Qiu\*, **Hanlin Zhu**<sup>†</sup>, Sijun Tan<sup>†</sup>, Ajraf Mannan, Jonathan Michala, Raluca Ada Popa, Willie Neiswanger
-
-preprint, 2025
 
 ---
 [Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning](https://arxiv.org/abs/2502.03275)
