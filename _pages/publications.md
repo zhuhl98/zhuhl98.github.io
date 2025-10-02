@@ -67,7 +67,7 @@ DiJia Su, **Hanlin Zhu**\*, Yingchen Xu\*, Jiantao Jiao, Yuandong Tian<sup>†</
 International Conference on Machine Learning (ICML), 2025
 
 ---
-[Avoiding Catastrophe in Continuous Spaces by Asking for Help](https://arxiv.org/abs/2402.08062)
+[Avoiding Catastrophe in Online Learning by Asking for Help](https://arxiv.org/abs/2402.08062)
 
 Benjamin Plaut, **Hanlin Zhu**, Stuart Russell
 
