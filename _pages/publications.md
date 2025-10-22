@@ -17,7 +17,9 @@ classes: compact-publications
 {% endfor %} -->
 
 [GSM-Agent: Understanding Agentic Reasoning Using Controllable Environments](https://arxiv.org/abs/2509.21998)
+
 **Hanlin Zhu**\*, Tianyu Guo\*, Song Mei, Stuart Russell, Nikhil Ghosh, Alberto Bietti, Jiantao Jiao
+
 preprint, 2025
 
 [Emergence of Superposition: Unveiling the Training Dynamics of Chain of Continuous Thought](https://arxiv.org/abs/2509.23365)
