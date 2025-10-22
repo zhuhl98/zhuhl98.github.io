@@ -43,8 +43,15 @@
     line-height: 1.5;
   }
   
-  .archive.compact-publications hr {
-    margin: 1.2em 0 !important;
+  /* Add spacing between publications - target paragraphs with links (titles) */
+  .archive.compact-publications p:has(a[href*="arxiv"]),
+  .archive.compact-publications p:has(a[href*="openreview"]) {
+    margin-top: 1.5em !important;
+  }
+  
+  /* Remove extra spacing from the first publication */
+  .archive.compact-publications > p:first-of-type {
+    margin-top: 0.3em !important;
   }
   
   .archive.compact-publications a {
