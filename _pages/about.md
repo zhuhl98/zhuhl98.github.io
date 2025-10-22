@@ -20,7 +20,7 @@ I'm also broadly interested in AI safety, model identifiability, decision-making
 
 
 
-# Selected publications ([full publication list](/publications/))
+# Selected papers ([full publication list](/publications/))
 
 <div class="selected-pubs" markdown="1">
 
