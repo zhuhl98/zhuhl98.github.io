@@ -24,6 +24,18 @@ I'm also broadly interested in AI safety, model identifiability, decision-making
 
 <div class="selected-pubs" markdown="1">
 
+[GSM-Agent: Understanding Agentic Reasoning Using Controllable Environments](https://arxiv.org/abs/2509.21998)
+
+**Hanlin Zhu**\*, Tianyu Guo\*, Song Mei, Stuart Russell, Nikhil Ghosh, Alberto Bietti, Jiantao Jiao
+
+preprint, 2025
+
+[Emergence of Superposition: Unveiling the Training Dynamics of Chain of Continuous Thought](https://arxiv.org/abs/2509.23365)
+
+**Hanlin Zhu**, Shibo Hao, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian
+
+preprint, 2025
+
 [Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514) [[slides](/files/talk_slides/coconut_theory.pdf)]
 
 **Hanlin Zhu**\*, Shibo Hao\*, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian
