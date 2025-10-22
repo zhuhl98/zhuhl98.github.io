@@ -20,7 +20,7 @@ I'm also broadly interested in AI safety, model identifiability, decision-making
 
 
 
-# Selected publications ([see full publication list](/publications/))
+# Selected publications ([full publication list](/publications/))
 
 <div class="selected-pubs" markdown="1">
 
@@ -38,4 +38,21 @@ Yixiao Huang\*, **Hanlin Zhu**\*, Tianyu Guo\*, Jiantao Jiao, Somayeh Sojoudi, M
 
 Conference on Neural Information Processing Systems (NeurIPS), 2025
 
+[Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics](https://arxiv.org/abs/2405.04669)
+
+**Hanlin Zhu**\*, Baihe Huang\*, Shaolun Zhang, Michael Jordan, Jiantao Jiao, Yuandong Tian, Stuart Russell
+
+Conference on Neural Information Processing Systems (NeurIPS), 2024
+
+[On Representation Complexity of Model-based and Model-free Reinforcement Learning](https://arxiv.org/abs/2310.01706)
+
+**Hanlin Zhu**\*, Baihe Huang\*, Stuart Russell
+
+International Conference on Learning Representations (ICLR), 2024
+
+[Importance Weighted Actor-Critic for Optimal Conservative Offline Reinforcement Learning](https://arxiv.org/abs/2301.12714)
+
+**Hanlin Zhu**, Paria Rashidinejad, Jiantao Jiao
+
+Conference on Neural Information Processing Systems (NeurIPS), 2023
 </div>
