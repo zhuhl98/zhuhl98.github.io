@@ -57,6 +57,27 @@
   .archive.compact-publications a {
     line-height: 1.5;
   }
+  
+  /* Compact layout for about page publications section */
+  .page.compact-about .page__content p {
+    margin: 0.3em 0 !important;
+    line-height: 1.5;
+  }
+  
+  /* Add spacing between publications in about page */
+  .page.compact-about .page__content p:has(a[href*="arxiv"]),
+  .page.compact-about .page__content p:has(a[href*="openreview"]) {
+    margin-top: 1.5em !important;
+  }
+  
+  /* Remove extra spacing from the first publication in about page */
+  .page.compact-about .page__content h1 + p:has(a[href*="arxiv"]) {
+    margin-top: 0.3em !important;
+  }
+  
+  .page.compact-about .page__content a {
+    line-height: 1.5;
+  }
 </style>
 
 <!-- end custom head snippets -->

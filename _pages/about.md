@@ -3,6 +3,7 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
+classes: compact-about
 redirect_from: 
   - /about/
   - /about.html
@@ -17,7 +18,7 @@ I'm also broadly interested in AI safety, model identifiability, decision-making
 <span style="color:#0000FF;">*I am on the academic job market in 2025-2026!*</span>
 
 
-## Selected publications ([see full publication list](/publications/))
+# Selected publications ([see full publication list](/publications/))
 
 [Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514) [[slides](/files/talk_slides/coconut_theory.pdf)]
 
