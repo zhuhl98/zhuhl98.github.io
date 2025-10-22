@@ -58,24 +58,24 @@
     line-height: 1.5;
   }
   
-  /* Compact layout for about page publications section */
-  .page.compact-about .page__content p {
+  /* Compact layout for about page publications section only */
+  .page.compact-about .page__content .selected-pubs p {
     margin: 0.3em 0 !important;
     line-height: 1.5;
   }
   
   /* Add spacing between publications in about page */
-  .page.compact-about .page__content p:has(a[href*="arxiv"]),
-  .page.compact-about .page__content p:has(a[href*="openreview"]) {
+  .page.compact-about .page__content .selected-pubs p:has(a[href*="arxiv"]),
+  .page.compact-about .page__content .selected-pubs p:has(a[href*="openreview"]) {
     margin-top: 1.5em !important;
   }
   
   /* Remove extra spacing from the first publication in about page */
-  .page.compact-about .page__content h1 + p:has(a[href*="arxiv"]) {
+  .page.compact-about .page__content .selected-pubs > p:first-of-type {
     margin-top: 0.3em !important;
   }
   
-  .page.compact-about .page__content a {
+  .page.compact-about .page__content .selected-pubs a {
     line-height: 1.5;
   }
 </style>

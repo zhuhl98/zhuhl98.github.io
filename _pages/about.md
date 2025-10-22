@@ -18,7 +18,11 @@ I'm also broadly interested in AI safety, model identifiability, decision-making
 <span style="color:#0000FF;">*I am on the academic job market in 2025-2026!*</span>
 
 
+
+
 # Selected publications ([see full publication list](/publications/))
+
+<div class="selected-pubs" markdown="1">
 
 [Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514) [[slides](/files/talk_slides/coconut_theory.pdf)]
 
@@ -33,3 +37,5 @@ Methods and Opportunities at Small Scale (MOSS) Workshop, ICML 2025 (*Oral*)
 Yixiao Huang\*, **Hanlin Zhu**\*, Tianyu Guo\*, Jiantao Jiao, Somayeh Sojoudi, Michael I. Jordan, Stuart Russell, Song Mei
 
 Conference on Neural Information Processing Systems (NeurIPS), 2025
+
+</div>
