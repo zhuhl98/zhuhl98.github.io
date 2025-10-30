@@ -62,9 +62,6 @@ Conference on Neural Information Processing Systems (NeurIPS), 2024
 
 International Conference on Learning Representations (ICLR), 2024
 
-[Importance Weighted Actor-Critic for Optimal Conservative Offline Reinforcement Learning](https://arxiv.org/abs/2301.12714)
+Philosophical Transactions of the Royal Society A, special issue: World Models, A(G)I, and the Hard Problem(s) of Life–Mind Continuity (in press)
 
-**Hanlin Zhu**, Paria Rashidinejad, Jiantao Jiao
-
-Conference on Neural Information Processing Systems (NeurIPS), 2023
 </div>
