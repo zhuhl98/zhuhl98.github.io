@@ -96,6 +96,8 @@ preprint, 2024
 
 International Conference on Learning Representations (ICLR), 2024
 
+Philosophical Transactions of the Royal Society A, special issue: World Models, A(G)I, and the Hard Problem(s) of Life–Mind Continuity (in press)
+
 [Efficient Prompt Caching via Embedding Similarity](https://arxiv.org/abs/2402.01173)
 
 **Hanlin Zhu**, Banghua Zhu, Jiantao Jiao
