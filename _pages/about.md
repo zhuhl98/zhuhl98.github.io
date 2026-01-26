@@ -31,12 +31,6 @@ I'm also broadly interested in AI safety, model identifiability, decision-making
 
 International Conference on Learning Representations (ICLR), 2026
 
-[GSM-Agent: Understanding Agentic Reasoning Using Controllable Environments](https://arxiv.org/abs/2509.21998)
-
-**Hanlin Zhu**\*, Tianyu Guo\*, Song Mei, Stuart Russell, Nikhil Ghosh, Alberto Bietti, Jiantao Jiao
-
-preprint, 2025
-
 [Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514) [[slides](/files/talk_slides/coconut_theory.pdf)]
 
 **Hanlin Zhu**\*, Shibo Hao\*, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian
