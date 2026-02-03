@@ -16,6 +16,12 @@ classes: compact-publications
   {% include archive-single.html %}
 {% endfor %} -->
 
+[Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge](https://arxiv.org/abs/2602.02470) 
+
+Xutao Ma\*, Yixiao Huang\*, **Hanlin Zhu**, Somayeh Sojoudi
+
+preprint, 2026
+
 [Emergence of Superposition: Unveiling the Training Dynamics of Chain of Continuous Thought](https://arxiv.org/abs/2509.23365)
 
 **Hanlin Zhu**, Shibo Hao, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian
