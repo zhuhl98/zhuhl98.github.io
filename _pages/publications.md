@@ -20,7 +20,7 @@ classes: compact-publications
 
 Xutao Ma\*, Yixiao Huang\*, **Hanlin Zhu**, Somayeh Sojoudi
 
-International Conference on Machine Learning (ICML), 2026 (**Spotlight**)
+International Conference on Machine Learning (ICML), 2026 (<span style="color:#cc3333;">*Spotlight*</span>)
 
 <!-- [Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning]
 
@@ -58,7 +58,7 @@ preprint, 2025
 
 Conference on Neural Information Processing Systems (NeurIPS), 2025
 
-Methods and Opportunities at Small Scale (MOSS) Workshop, ICML 2025 (**Oral**)
+Methods and Opportunities at Small Scale (MOSS) Workshop, ICML 2025 (<span style="color:#cc3333;">*Oral*</span>)
 
 [Generalization or Hallucination? Understanding Out-of-Context Reasoning in Transformers](https://arxiv.org/abs/2506.10887)
 
@@ -94,7 +94,7 @@ Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
 
 Banghua Zhu\*, Evan Frick\*, Tianhao Wu\*, **Hanlin Zhu**, Karthik Ganesan, Wei-Lin Chiang, Jian Zhang, Jiantao Jiao
 
-Conference on Language Modeling (COLM), 2024 (**Oral**)
+Conference on Language Modeling (COLM), 2024 (<span style="color:#cc3333;">*Oral*</span>)
 
 [Towards Optimal Statistical Watermarking](https://arxiv.org/abs/2312.07930)
 
@@ -138,7 +138,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023
 
 Paria Rashidinejad, **Hanlin Zhu**, Kunhe Yang, Stuart Russell, Jiantao Jiao
 
-International Conference on Learning Representations (ICLR), 2023 (**Spotlight**)
+International Conference on Learning Representations (ICLR), 2023 (<span style="color:#cc3333;">*Spotlight*</span>)
 
 [Provably Efficient Reinforcement Learning via Surprise Bound](https://arxiv.org/abs/2302.11634)
 
@@ -162,4 +162,4 @@ RANDOM, 2020
 
 Ryuichi Takanobu, **Hanlin Zhu**, Minlie Huang
 
-Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019 (**Oral**)
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019 (<span style="color:#cc3333;">*Oral*</span>)

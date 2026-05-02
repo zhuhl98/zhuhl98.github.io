@@ -15,6 +15,7 @@ My research centers on understanding and improving the *reasoning* capabilities 
 
 I'm also broadly interested in AI safety, model identifiability, decision-making and reinforcement learning, especially in how these areas intersect with the development and evaluation of more reliable, efficient, and interpretable AI systems.
 
+<!-- <span style="color:#0000FF;">*I am on both the academic and industry job market in 2025-2026!*</span> -->
 
 
 # Selected papers ([full publication list](/publications/))
