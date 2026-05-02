@@ -22,6 +22,12 @@ Xutao Ma\*, Yixiao Huang\*, **Hanlin Zhu**, Somayeh Sojoudi
 
 International Conference on Machine Learning (ICML), 2026 (**Spotlight**)
 
+[Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning]
+
+Ziheng Cheng\*, Yixiao Huang\*, **Hanlin Zhu**, Haoran Geng, Somayeh Sojoudi, Jitendra Malik, Pieter Abbeel, Xin Guo
+
+International Conference on Machine Learning (ICML), 2026 
+
 [Emergence of Superposition: Unveiling the Training Dynamics of Chain of Continuous Thought](https://arxiv.org/abs/2509.23365)
 
 **Hanlin Zhu**, Shibo Hao, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian
