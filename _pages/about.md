@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. candidate in the [Department of Electrical Engineering and Computer Science](https://eecs.berkeley.edu/) at UC Berkeley. I am fortunate to be advised by Professor [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) and Professor [Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/). Previously, I graduated from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at Tsinghua University.
+I am a member of technical staff at OpenAI, working on LLM post-training. I received my Ph.D. degree from the [Department of Electrical Engineering and Computer Science](https://eecs.berkeley.edu/) at UC Berkeley, where I was fortunate to be advised by Professor [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) and Professor [Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/). Previously, I graduated from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at Tsinghua University.
 
 My research centers on understanding and improving the *reasoning* capabilities of large language models (LLMs). I approach this through theoretically analyzing their foundations and limitations, and designing more effective training, inference and evaluation methods. My work spans different regimes of reasoning, ranging from implicit reasoning, where models produce answers without explicit thinking steps (e.g., [the reversal curse](https://arxiv.org/abs/2405.04669), [two-hop reasoning](https://arxiv.org/abs/2502.13913), [out-of-context reasoning](https://arxiv.org/abs/2506.10887)), to inference-time reasoning with intermediate outputs (e.g., [chain of continuous thought](https://arxiv.org/abs/2505.12514), [token assorted](https://arxiv.org/abs/2502.03275)), and up to agentic reasoning, where models proactively use tools and gather information to solve complex problems (e.g., [GSM-Agent](https://arxiv.org/abs/2509.21998)). 
 
@@ -55,6 +55,6 @@ Conference on Neural Information Processing Systems (NeurIPS), 2024
 
 International Conference on Learning Representations (ICLR), 2024
 
-Philosophical Transactions of the Royal Society A, special issue: World Models, A(G)I, and the Hard Problem(s) of Life–Mind Continuity (in press)
+Philosophical Transactions of the Royal Society A, special issue: World Models, A(G)I, and the Hard Problem(s) of Life–Mind Continuity
 
 </div>
