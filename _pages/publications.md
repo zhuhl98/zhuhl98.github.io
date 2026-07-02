@@ -16,12 +16,29 @@ classes: compact-publications
   {% include archive-single.html %}
 {% endfor %} -->
 
-[Safe Learning Under Irreversible Dynamics via Asking for Help]
+[DiscoLoop: Looping Discrete Embeddings and Continuous Hidden States for Multi-hop Reasoning](https://arxiv.org/abs/2607.00341)
+
+Hengyu Fu\*, Tianyu Guo\*, Zixuan Wang\*, **Hanlin Zhu**\*, Jason D. Lee, Jiantao Jiao, Stuart Russell, Song Mei
+
+preprint, 2026
+
+[Transformers Provably Learn to Internalize Chain-of-Thought](https://arxiv.org/abs/2605.28600)
+
+Yixiao Huang, **Hanlin Zhu**, Zixuan Wang, Jiantao Jiao, Stuart Russell, Somayeh Sojoudi, Song Mei
+
+preprint, 2026
+
+[CopT: Contrastive On-Policy Thinking with Continuous Spaces for General and Agentic Reasoning](https://arxiv.org/abs/2605.20075)
+
+Dachuan Shi, **Hanlin Zhu**, Xiangchi Yuan, Wanjia Zhao, Kejing Xia, Wen Xiao, Wenke Lee
+
+preprint, 2026
+
+[Safe Learning Under Irreversible Dynamics via Asking for Help](https://arxiv.org/abs/2502.14043)
 
 Benjamin Plaut, Juan LiÃŠvano-Karim, **Hanlin Zhu**, Stuart Russell
 
 Journal of Machine Learning Research (JMLR), to appear, 2026
-
 
 [Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge](https://arxiv.org/abs/2602.02470) 
 
