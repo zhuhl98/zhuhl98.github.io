@@ -16,17 +16,24 @@ classes: compact-publications
   {% include archive-single.html %}
 {% endfor %} -->
 
+[Safe Learning Under Irreversible Dynamics via Asking for Help]
+
+Benjamin Plaut, Juan LiÃŠvano-Karim, **Hanlin Zhu**, Stuart Russell
+
+Journal of Machine Learning Research (JMLR), to appear, 2026
+
+
 [Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge](https://arxiv.org/abs/2602.02470) 
 
 Xutao Ma\*, Yixiao Huang\*, **Hanlin Zhu**, Somayeh Sojoudi
 
 International Conference on Machine Learning (ICML), 2026 (<span style="color:#cc3333;">*Spotlight*</span>)
 
-<!-- [Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning]
+[Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning](https://arxiv.org/abs/2605.25210)
 
 Ziheng Cheng\*, Yixiao Huang\*, **Hanlin Zhu**, Haoran Geng, Somayeh Sojoudi, Jitendra Malik, Pieter Abbeel, Xin Guo
 
-International Conference on Machine Learning (ICML), 2026  -->
+International Conference on Machine Learning (ICML), 2026 
 
 [Emergence of Superposition: Unveiling the Training Dynamics of Chain of Continuous Thought](https://arxiv.org/abs/2509.23365)
 
@@ -108,7 +115,7 @@ preprint, 2024
 
 International Conference on Learning Representations (ICLR), 2024
 
-Philosophical Transactions of the Royal Society A, special issue: World Models, A(G)I, and the Hard Problem(s) of Life–Mind Continuity (in press)
+Philosophical Transactions of the Royal Society A, special issue: World Models, A(G)I, and the Hard Problem(s) of Life–Mind Continuity
 
 [Efficient Prompt Caching via Embedding Similarity](https://arxiv.org/abs/2402.01173)
 
