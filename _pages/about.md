@@ -35,7 +35,7 @@ International Conference on Learning Representations (ICLR), 2026
 
 Conference on Neural Information Processing Systems (NeurIPS), 2025
 
-Methods and Opportunities at Small Scale (MOSS) Workshop, ICML 2025 (*Oral*)
+Methods and Opportunities at Small Scale (MOSS) Workshop, ICML 2025 (<span style="color:#cc3333;">*Oral*</span>)
 
 [Generalization or Hallucination? Understanding Out-of-Context Reasoning in Transformers](https://arxiv.org/abs/2506.10887)
 
